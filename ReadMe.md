@@ -63,7 +63,37 @@ Solution here.....
 
 
 
-# Monitoring and Logging
+# Monitoring
+## Sub-Heading
+### Note 
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
+
+
+# Logging
+## Sub-Heading
+### Note 
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+```
+</p>
+</details>
+
+
+
+# Alerting
 ## Sub-Heading
 ### Note 
 
@@ -106,7 +136,7 @@ Solution here.....
 </details>
 
 
-# Template
+# Adding a Node 
 ## Sub-Heading
 ### Note 
 
@@ -120,7 +150,7 @@ Solution here.....
 </details>
 
 
-# Template
+# Deleting a cluster in KOPS and EKS
 ## Sub-Heading
 ### Note 
 
@@ -134,8 +164,8 @@ Solution here.....
 </details>
 
 
-# Template
-## Sub-Heading
+# Configure AWS Cluster
+## Map IAM users to RBAC
 ### Note 
 
 <details><summary>show</summary>
@@ -148,8 +178,8 @@ Solution here.....
 </details>
 
 
-# Template
-## Sub-Heading
+# Load Balancing and DNS 
+## Using ALB vs Ingress Controller
 ### Note 
 
 <details><summary>show</summary>
