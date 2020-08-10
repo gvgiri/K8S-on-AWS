@@ -1,3 +1,19 @@
+
+# CDK in AWS
+## Sub-Heading
+### Note 
+
+<details><summary>show</summary>
+<p>
+
+```bash
+Solution here.....
+https://github.com/aws-samples/aws-cdk-examples
+```
+</p>
+</details>
+
+
 # KOPS on AWS
 ## Sub-Heading
 ### Note 
