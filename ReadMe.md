@@ -14,7 +14,21 @@
 <p>
 
 ```bash
-Solution here.....
+#Solution here.....
+#Install python > 3.6
+brew install python
+python3 --version
+
+#Install node from the node.js website
+https://nodejs.org/en/download/
+node --version
+
+#Install aws-cdk
+npm install -g aws-cdk
+
+#Check version installed
+cdk --version
+
 https://github.com/aws-samples/aws-cdk-examples
 ```
 </p>
