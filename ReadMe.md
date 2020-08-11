@@ -1,5 +1,6 @@
 # Installation Options
 ## KOPS - kubernetes operations - across all clouds
+### https://kops.sigs.k8s.io/getting_started/aws/
 ## CDK - to install - specific to AWS - CloudFormation - aws APIs
 ## EKS - AWS specific, eksctl - have worker nodes - that run your container
 ## Fargate - serverless 
