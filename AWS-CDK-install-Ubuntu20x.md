@@ -9,6 +9,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
 #### Install Node.js -- followed https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
 <details><summary>show</summary>
 <p>
+  
 ```bash
 sudo apt update
 sudo apt install nodejs
@@ -22,9 +23,11 @@ aws confgure --profile vgiri
 ```
 </p>
 </details>
+
 # Heading
 <details><summary>show</summary>
 <p>
+  
 ```bash
 #Solution here.....
 #Install python > 3.6
