@@ -19,7 +19,11 @@ sudo apt install npm
 # configure aws user profile
 aws confgure --profile vgiri
 # Install PIP and Virtualenv
-  sudo python3 -m pip install --user virtualenv  
+sudo python3 -m pip install --user virtualenv  
+
+# Install aws-cdk
+sudo npm install -g aws-cdk
+cdk --version
 ```
 </p>
 </details>
